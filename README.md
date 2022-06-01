@@ -1,3 +1,8 @@
+![RainbowR-banner](https://user-images.githubusercontent.com/106667146/171421961-cdcd6e88-8f78-4eef-8024-7449a15220bf.png)
+
+
+
+
 - 👋 Hi, I’m @r-lgbtq
 - 👀 I’m interested in Data Science and Shiny App dev
 - 🌱 I’m currently learning TodyMOdels
