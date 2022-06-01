@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @r-lgbtq
 - 👀 I’m interested in Data Science and Shiny App dev
-- 🌱 I’m currently learning TodyMOdels
+- 🌱 I’m currently learning TidyModels
 - 💞️ I’m looking to collaborate on RainbowR blog
 - 📫 How to reach me ... Twitter 
 
